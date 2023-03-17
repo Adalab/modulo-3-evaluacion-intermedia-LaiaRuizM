@@ -1,70 +1,133 @@
-# Getting Started with Create React App
+![Laia Ruiz Martínez](src/images/Laia.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MODULE 3 | REACT - INTERMEDIATE EVALUATION EXERCISE
 
-## Available Scripts
+Hi there people! 👋🏻
+My name is Laia Ruiz Martínez and this is my Intermediate evalutaion exercise.
 
-In the project directory, you can run:
+## 🛠 | Tools and programming languages:
 
-### `npm start`
+VISUAL STUDIO CODE (VSC) 🗄️
+HTML 📌
+JS ♡
+REACT ⚡️
+GIT / GITHUB 📂
+SASS / SCSS 🔗
+API 🔎
+GULP 🖌️
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 | Built With:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+HTML
+CSS
+REACT
 
-### `npm test`
+## -- About this project 🙋🏼‍♀️ --
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Create a web application using React
+- Use React States
+- Modify States
+- Work with server response
+- Create Fetch request
+- Paint and filter
 
-### `npm run build`
+## -- Challenges I have faced 🤖 --
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- The challenge was to show all the sentences plus the new ones because when I wrote some new sentence + author, the showed data was only the new one, not the previous information plus this new one.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## -- Features to implement in the future 🤓 🔁 --
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- LocalStorage
 
-### `npm run eject`
+## -- Project Link: --
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Link](https://github.com/Adalab/modulo-3-evaluacion-intermedia-LaiaRuizM)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## -- Contact me! --
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[Laia](https://github.com/LaiaRuizM)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+⌨️ Made with ❤️ by [Laia](https://github.com/LaiaRuizM)
 
-## Learn More
+## -- Getting Started 💪🏼☄️ --
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone the repo:
+   `git clone https://github.com/Adalab/modulo-2-evaluacion-final-LaiaRuizM.git`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Install NPM packages:
+   `npm install`
 
-### Code Splitting
+1. Start the project:
+   `npm start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## -- SPANISH VERSION: --
 
-### Analyzing the Bundle Size
+#### -- ¿Qué puedo encontrar en este ejercicio? --
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+> **NOTA:** En este ejercicio, podemos encontrar los siguientes ficheros y carpetas:
 
-### Making a Progressive Web App
+1. La carpeta 📂 `src/` son los ficheros de esta página web: HTML, SCSS, JavaScript e imágenes.
+1. Las carpetas 📚 `public/` y `docs/`, se generan automáticamente cuando arrancamos el proyecto. GULP lee los fichero que se encuentran en la carpeta src/, los procesa y después, los genera dentro de `public/` y `docs/`.
+1. Los ficheros 📝 que están sueltos en la raíz del repositorio, como gulpfile.js, package.json... Son la configuración del proyecto y no necesitamos modificarlos.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### -- ¿Cómo puedo iniciar el arranque desde cero? --
 
-### Advanced Configuration
+> **NOTA:** A continuación, expongo los pasos a seguir:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. **Asegúrate de tener instalado / instala el Node JS**, para poder trabajar con el Starter Kit.
+1. **Crea tu propio repositorio.** OJO: Ten muy en cuenta la carpeta dónde estás, en todo momento.
+1. Descarga el **Starter kit de Adalab, desde GitHub**.
+   - Como recomendación: Evita clonar el repo, por que sino, no podrás añadir commits.
+1. **Copia todos los ficheros** del Starter kit en la carpeta raíz de tu repositorio.
+   - Recuerda que debes copiar **también los ficheros ocultos** (¡IMPORTANTE!)
+   - Si decides clonar el repo, evita copiar la carpeta `.git`. Ya que, si lo haces, estarás sobrescribiendo tu propio repositorio.
+1. **Abre una terminal** en la carpeta **raíz** de tu repositorio.
+1. **Instala las dependencias** locales ejecutando en la terminal el comando:
 
-### Deployment
+   ```bash
+   npm install
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+#### -- ¿Cómo puedo arrancar el proyecto? --
 
-### `npm run build` fails to minify
+> **NOTA:** El proyecto hay que arrancarlo cada vez que te pongas a programar.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Para arrancarlo, ejecuta el comando:
+
+```bash
+npm start
+```
+
+**¿Qué hace este comando?**
+
+- **Abre una ventana de Chrome y muestra tu página web**. Es lo mismo que hace el plugin de VS Code Live Server (Go live).
+- Además, **observa** todos los ficheros que hay dentro de la carpeta `src/`. Cada vez que modifiques un fichero **refresca tu página en Chrome**.
+- También **procesa los ficheros** HTML, SASS / CSS y JS y los **genera y guarda en la carpeta `public/`**. Por ejemplo:
+  - Convierte los ficheros SASS en CSS.
+  - Combina los diferentes ficheros de HTML y los agrupa en uno o varios ficheros HTML.
+
+Después de ejecutar `npm start` ya puedes empezar a editar todos los ficheros que están dentro de la carpeta `src/` y programar.
+
+#### -- ¿Cómo publicar el proyecto en GitHub Pages? --
+
+Para generar tu página para producción ejecuta el comando:
+
+```bash
+npm run docs
+```
+
+A continuación:
+
+1. En el explorador, se habrá creado una carpeta llamada `docs/`. Si no aparece de primeras, refresca!
+1. En la terminal pon git add -A, git commit -m "run docs" y git push.
+1. Entra en la pestaña `settings` de tu repo -> "code and automation" -> en el apartado de GitHub Pages activa la opción **master branch /docs folder** -> save -> refresh. (¡IMPORTANTE!).
+1. Puede ser que tarde en crearla, por el deploy. Una vez se haya generado la URL, ya podrás enviarla.
+1. Como recomendación: Añade esta URL en la página principal del proyecto, en el apartado ABOUT.
+
+#### -- ¿Quieres aportar algo más? --
+
+¡Si tenéis cualquier duda o quieres contribuir, no dudéis en contactar conmigo! 💡
+
+Muchas gracias por mirar mi pequeña contribución ⏳.
+
+![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
