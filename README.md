@@ -41,11 +41,13 @@
 
 ## -- Project Link: --
 
-[https://github.com/Adalab/modulo-3-evaluacion-intermedia-LaiaRuizM]
+https://github.com/Adalab/modulo-3-evaluacion-intermedia-LaiaRuizM
 
 ## -- Contact me! --
 
 [Laia Ruiz Martínez](https://github.com/LaiaRuizM)
+
+## -- Made: --
 
 ⌨️ Made with ❤️ by [Laia](https://github.com/LaiaRuizM)
 
