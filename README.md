@@ -41,7 +41,7 @@
 
 ## -- Project Link: --
 
-https://github.com/Adalab/modulo-3-evaluacion-intermedia-LaiaRuizM
+http://beta.adalab.es/modulo-3-evaluacion-intermedia-LaiaRuizM/
 
 ## -- Contact me! --
 
