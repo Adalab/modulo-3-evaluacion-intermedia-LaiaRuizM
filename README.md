@@ -2,25 +2,25 @@
 
 # MODULE 3 | REACT - INTERMEDIATE EVALUATION EXERCISE
 
-Hi there people! 👋🏻
-My name is Laia Ruiz Martínez and this is my Intermediate evalutaion exercise.
+- Hi there people! 👋🏻
+- My name is Laia Ruiz Martínez and this is my Intermediate evalutaion exercise.
 
 ## 🛠 | Tools and programming languages:
 
-VISUAL STUDIO CODE (VSC) 🗄️
-HTML 📌
-JS ♡
-REACT ⚡️
-GIT / GITHUB 📂
-SASS / SCSS 🔗
-API 🔎
-GULP 🖌️
+- VISUAL STUDIO CODE (VSC) 🗄️
+- HTML 📌
+- JS ♡
+- REACT ⚡️
+- GIT / GITHUB 📂
+- SASS / SCSS 🔗
+- API 🔎
+- GULP 🖌️
 
 ## 🛠 | Built With:
 
-HTML
-CSS
-REACT
+- HTML
+- CSS
+- REACT
 
 ## -- About this project 🙋🏼‍♀️ --
 
@@ -41,11 +41,11 @@ REACT
 
 ## -- Project Link: --
 
-[Link](https://github.com/Adalab/modulo-3-evaluacion-intermedia-LaiaRuizM)
+[https://github.com/Adalab/modulo-3-evaluacion-intermedia-LaiaRuizM]
 
 ## -- Contact me! --
 
-[Laia](https://github.com/LaiaRuizM)
+[Laia Ruiz Martínez](https://github.com/LaiaRuizM)
 
 ⌨️ Made with ❤️ by [Laia](https://github.com/LaiaRuizM)
 
