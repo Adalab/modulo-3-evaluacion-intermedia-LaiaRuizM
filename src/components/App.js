@@ -7,7 +7,7 @@ import "../styles/App.scss";
 // Datos
 // import dataSentences from "../data/quotes.json";
 import getSentenceFromApi from "../services/api";
-import objectToExport from "../services/localStorage";
+import ls from "../services/localStorage";
 // - Imágenes
 import friendsImg from "../images/friendsImg.jpeg";
 
@@ -21,14 +21,20 @@ function App() {
     quote: "",
     character: "",
   });
-  const [dataList, setDataList] = useState([]); // Because of the Fetch, I put an empty array, instead of dataSentences.
+  const [dataList, setDataList] = useState(ls.get("newQuote", [])); // Because of the Fetch, I put an empty array, instead of dataSentences.
   const [errorMsg, setErrorMsg] = useState("");
 
   useEffect(() => {
-    getSentenceFromApi().then((response) => {
-      setDataList(response);
-    });
+    if (dataList.length === 0) {
+      getSentenceFromApi().then((response) => {
+        setDataList(response);
+      });
+    }
   }, []);
+
+  useEffect(() => {
+    ls.set("newQuote", dataList);
+  }, [dataList]);
 
   /* FUNCIONES HANDLER */
   const handleQuoteFilter = (ev) => {
