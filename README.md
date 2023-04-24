@@ -3,7 +3,7 @@
 # MODULE 3 | REACT - INTERMEDIATE EVALUATION EXERCISE
 
 - Hi there people! 👋🏻
-- My name is Laia Ruiz Martínez and this is my Intermediate evalution exercise.
+- My name is Laia Ruiz Martínez and this is my Intermediate evaluation exercise.
 
 ## 🛠 | Tools and programming languages:
 
