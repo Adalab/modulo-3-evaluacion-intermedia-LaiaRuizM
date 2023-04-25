@@ -1,4 +1,8 @@
-![Laia Ruiz Martínez](src/images/Laia.png)
+<p align="center" style="margin-center:10%">
+<img src="./LaiaRuizM.png" alt="Laia" width="280"/>
+</p>
+
+If you want to see the project: https://laiaruizm.github.io/cocktail-finder/
 
 # MODULE 3 | REACT - INTERMEDIATE EVALUATION EXERCISE
 
